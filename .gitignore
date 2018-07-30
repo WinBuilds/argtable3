@@ -1,6 +1,10 @@
 # except for .gitignore
 !.gitignore
 
-build/
+build_*/
 examples/bin/
 tests/bin/
+.vs
+*.VC.db
+*.VC.opendb
+*.lnk

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\tests\CuTest.c" />
+    <ClCompile Include="..\..\tests\testall.c" />
+    <ClCompile Include="..\..\tests\testargdate.c" />
+    <ClCompile Include="..\..\tests\testargdbl.c" />
+    <ClCompile Include="..\..\tests\testargfile.c" />
+    <ClCompile Include="..\..\tests\testargint.c" />
+    <ClCompile Include="..\..\tests\testarglit.c" />
+    <ClCompile Include="..\..\tests\testargrex.c" />
+    <ClCompile Include="..\..\tests\testargstr.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\tests\CuTest.h" />
+  </ItemGroup>
+</Project>
